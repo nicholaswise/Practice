@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2017\Projects\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2017\Projects\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2017\Projects\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2017\Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2017\Projects\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2017\Projects\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2017\Projects\Practice\Practice\obj\Debug\Practice.pdb
